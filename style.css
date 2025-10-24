@@ -1,0 +1,79 @@
+body{
+    background-image: url("flamme.jpg");
+    font-family: 'Helvetica Neue', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+.class1 {
+    background-color: black;
+    color: aliceblue;
+    width: 330px;
+    height: 300px;
+    display: flex;
+    padding-left: 30px;
+    margin-top: 50px;
+    margin-left: 80px;
+    border-radius: 40px solid red;
+    
+}
+
+.class2 {
+    background-color: black;
+    color: aliceblue;
+    width: 417px;
+    height: 350px;
+    display: flex;
+    font-size: small;
+    padding-left: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 40px solid red;
+}
+
+.class3 {
+    display: flex;
+}
+.class4 {
+    background-color: black;
+    color: aliceblue;
+    height: 300px;
+    width: 330px;
+    display: flex;
+    margin-top: 10px;
+    padding-left: 30px;
+    margin-left: 80px;
+    border-radius: 40px solid red;
+}
+.class5{
+    background-color: black;
+    color: aliceblue;
+    height: 300px;
+    width: 330;
+    display: flex;
+    margin-top: 10px;
+    margin-left: 100px;
+    padding-left: 30px;
+    border-radius: 40px solid red;
+
+}
+.class6 {
+    display: flex;
+}
+.class7{
+       background-color: black;
+       color: aliceblue;
+       height: 300px;
+       width: 330px;
+       display: flex;
+       margin-top: 10px;
+       margin-left: 80px;
+       padding-left: 30px;
+       border-radius: 40px solid red;
+}
+
+.but {
+    background-color: aquamarine;
+}
